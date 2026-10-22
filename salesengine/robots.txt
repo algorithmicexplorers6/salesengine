@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://algorithmicexplorers.com/salesengine/sitemap.xml
